@@ -7,7 +7,7 @@ UserName: sathiabama-s@hcl.com
 Password: 7BeautifulNature
 
 There will be a link to sathiabama/apollo.
-under sydney-train branch name, 2 files(Sydney_Trains_Data_Table_Creation.java,steps_to_execute.txt) would be attached
+under sydney-train branch name(https://github.com/sathiabama/apollo/tree/sydney-train), 2 files(Sydney_Trains_Data_Table_Creation.java,steps_to_execute.txt) would be attached
 
 Need to download 2 files(Sydney_Trains_Data_Table_Creation.java and steps_to_execute.txt) from github and store it in local drive(C:\Users\sathiabama-s\cba_assignment)
 
