@@ -1,0 +1,29 @@
+Steps to execute:
+
+Login to github with the following credentials
+
+UserName: sathiabama-s@hcl.com
+
+Password: 7BeautifulNature
+
+There will be a link to sathiabama/apollo.
+under sydney-train branch name, 2 files(Sydney_Trains_Data_Table_Creation.java,steps_to_execute.txt) would be attached
+
+Need to download 2 files(Sydney_Trains_Data_Table_Creation.java and steps_to_execute.txt) from github and store it in local drive(C:\Users\sathiabama-s\cba_assignment)
+
+Install Eclipse IDE(Luna)
+Version used is, Luna Service Release 2 (4.4.2)
+
+In Eclipse IDE,Kindly create a java project named sample.
+
+Create a package named sydney_Trains_Data_Table_Creation
+
+copy and paste the Sydney_Trains_Data_Table_Creation.java from local drive(C:\Users\sathiabama-s\cba_assignment)into this package
+
+Right click the file(Sydney_Trains_Data_Table_Creation.java) and select as Run As--> Java Application
+
+The output will be displayed in Tabular format.
+
+Thank you to follow the steps highlighted.
+
+Please let me know if any challenges faced in executing the above steps.
